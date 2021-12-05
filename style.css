@@ -11,6 +11,7 @@ header {
 
 header h1 {
     text-align: center;
+    color: #FF8C00;
 }
 
 nav a {
@@ -20,6 +21,6 @@ nav a {
     padding: 5px;
     margin: 70px;
   
-main {
-    background: #FF8C00;  
+main h2, p{  
+    color: #FF8C00;
 
