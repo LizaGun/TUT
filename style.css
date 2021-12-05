@@ -1,1 +1,25 @@
+body {
+    background: black;
+    font-family: sans-serif;
+}
 
+header {
+    border-radius: 15px;
+    padding: 5px;
+    border: 3px solid #FF8C00; 
+}
+
+header h1 {
+    text-align: center;
+}
+
+nav a {
+    background: #FF8C00;
+    color: black;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 70px;
+  
+main {
+    background: #FF8C00;  
+  
