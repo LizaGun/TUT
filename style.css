@@ -21,6 +21,9 @@ nav a {
     padding: 5px;
     margin: 70px;
   
-main h2, p{  
-    color: #FF8C00;
+main p{  
+    color: #FF8C00;}
+    
+main h2{  
+    color: #FF8C00;}
 
